@@ -43,7 +43,7 @@ class MainActivity : AppCompatActivity() {
             } else {
                 Snackbar.make(
                     findViewById(R.id.main_view),
-                    "Error in retrieving",
+                    "No Network Connection, Please Retry",
                     Snackbar.LENGTH_INDEFINITE
                 ).setAction("Retry"){viewModel.makeAPICall()}.show()
                 Log.d("MainActivity","List received, ${it}")
