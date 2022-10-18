@@ -2,12 +2,14 @@ package com.example.networkcommunicationexercisetwo
 
 import android.annotation.SuppressLint
 import android.os.Bundle
+import android.util.Log
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.ViewModelProvider
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.example.networkcommunicationexercisetwo.viewmodel.MainActivityViewModel
+import com.google.android.material.snackbar.Snackbar
 
 class MainActivity : AppCompatActivity() {
 
@@ -37,8 +39,14 @@ class MainActivity : AppCompatActivity() {
             if (it != null) {
                 recyclerAdapter.setCountryList(it)
                 recyclerAdapter.notifyDataSetChanged()
+                Log.d("MainActivity","List received, ${it?.size}")
             } else {
-                Toast.makeText(this, "No Network Connection", Toast.LENGTH_SHORT).show()
+                Snackbar.make(
+                    findViewById(R.id.main_view),
+                    "Error in retrieving",
+                    Snackbar.LENGTH_INDEFINITE
+                ).setAction("Retry"){viewModel.makeAPICall()}.show()
+                Log.d("MainActivity","List received, ${it}")
             }
         }
         viewModel.makeAPICall()
