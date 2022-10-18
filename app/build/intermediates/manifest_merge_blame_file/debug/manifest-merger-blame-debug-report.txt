@@ -1,0 +1,107 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.networkcommunicationexercisetwo"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->C:\Users\ali70\OneDrive\Desktop\NetworkCommunicationExerciseTwo\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->C:\Users\ali70\OneDrive\Desktop\NetworkCommunicationExerciseTwo\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\ali70\OneDrive\Desktop\NetworkCommunicationExerciseTwo\app\src\main\AndroidManifest.xml:6:5-66
+11-->C:\Users\ali70\OneDrive\Desktop\NetworkCommunicationExerciseTwo\app\src\main\AndroidManifest.xml:6:22-64
+12
+13    <!--
+14    Allows Glide to monitor connectivity status and restart failed requests if users go from a
+15    a disconnected to a connected network state.
+16    -->
+17    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+17-->[com.github.corouteam:GlideToVectorYou:v2.0.0] C:\Users\ali70\.gradle\caches\transforms-3\9c202a63ef557b9f5dce038636023c52\transformed\GlideToVectorYou-v2.0.0\AndroidManifest.xml:16:5-79
+17-->[com.github.corouteam:GlideToVectorYou:v2.0.0] C:\Users\ali70\.gradle\caches\transforms-3\9c202a63ef557b9f5dce038636023c52\transformed\GlideToVectorYou-v2.0.0\AndroidManifest.xml:16:22-76
+18
+19    <permission
+19-->[androidx.core:core:1.9.0] C:\Users\ali70\.gradle\caches\transforms-3\f3889f18d4f26e70cef4e17d11226053\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+20        android:name="com.example.networkcommunicationexercisetwo.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+20-->[androidx.core:core:1.9.0] C:\Users\ali70\.gradle\caches\transforms-3\f3889f18d4f26e70cef4e17d11226053\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+21        android:protectionLevel="signature" />
+21-->[androidx.core:core:1.9.0] C:\Users\ali70\.gradle\caches\transforms-3\f3889f18d4f26e70cef4e17d11226053\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+22
+23    <uses-permission android:name="com.example.networkcommunicationexercisetwo.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+23-->[androidx.core:core:1.9.0] C:\Users\ali70\.gradle\caches\transforms-3\f3889f18d4f26e70cef4e17d11226053\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+23-->[androidx.core:core:1.9.0] C:\Users\ali70\.gradle\caches\transforms-3\f3889f18d4f26e70cef4e17d11226053\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+24
+25    <application
+25-->C:\Users\ali70\OneDrive\Desktop\NetworkCommunicationExerciseTwo\app\src\main\AndroidManifest.xml:8:5-31:19
+26        android:allowBackup="true"
+26-->C:\Users\ali70\OneDrive\Desktop\NetworkCommunicationExerciseTwo\app\src\main\AndroidManifest.xml:9:9-35
+27        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+27-->[androidx.core:core:1.9.0] C:\Users\ali70\.gradle\caches\transforms-3\f3889f18d4f26e70cef4e17d11226053\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+28        android:dataExtractionRules="@xml/data_extraction_rules"
+28-->C:\Users\ali70\OneDrive\Desktop\NetworkCommunicationExerciseTwo\app\src\main\AndroidManifest.xml:10:9-65
+29        android:debuggable="true"
+30        android:extractNativeLibs="false"
+31        android:fullBackupContent="@xml/backup_rules"
+31-->C:\Users\ali70\OneDrive\Desktop\NetworkCommunicationExerciseTwo\app\src\main\AndroidManifest.xml:11:9-54
+32        android:icon="@mipmap/ic_launcher"
+32-->C:\Users\ali70\OneDrive\Desktop\NetworkCommunicationExerciseTwo\app\src\main\AndroidManifest.xml:12:9-43
+33        android:label="@string/app_name"
+33-->C:\Users\ali70\OneDrive\Desktop\NetworkCommunicationExerciseTwo\app\src\main\AndroidManifest.xml:13:9-41
+34        android:roundIcon="@mipmap/ic_launcher_round"
+34-->C:\Users\ali70\OneDrive\Desktop\NetworkCommunicationExerciseTwo\app\src\main\AndroidManifest.xml:14:9-54
+35        android:supportsRtl="true"
+35-->C:\Users\ali70\OneDrive\Desktop\NetworkCommunicationExerciseTwo\app\src\main\AndroidManifest.xml:15:9-35
+36        android:testOnly="true"
+37        android:theme="@style/Theme.NetworkCommunicationExerciseTwo" >
+37-->C:\Users\ali70\OneDrive\Desktop\NetworkCommunicationExerciseTwo\app\src\main\AndroidManifest.xml:16:9-69
+38        <activity
+38-->C:\Users\ali70\OneDrive\Desktop\NetworkCommunicationExerciseTwo\app\src\main\AndroidManifest.xml:18:9-30:20
+39            android:name="com.example.networkcommunicationexercisetwo.MainActivity"
+39-->C:\Users\ali70\OneDrive\Desktop\NetworkCommunicationExerciseTwo\app\src\main\AndroidManifest.xml:19:13-41
+40            android:exported="true" >
+40-->C:\Users\ali70\OneDrive\Desktop\NetworkCommunicationExerciseTwo\app\src\main\AndroidManifest.xml:20:13-36
+41            <intent-filter>
+41-->C:\Users\ali70\OneDrive\Desktop\NetworkCommunicationExerciseTwo\app\src\main\AndroidManifest.xml:21:13-25:29
+42                <action android:name="android.intent.action.MAIN" />
+42-->C:\Users\ali70\OneDrive\Desktop\NetworkCommunicationExerciseTwo\app\src\main\AndroidManifest.xml:22:17-69
+42-->C:\Users\ali70\OneDrive\Desktop\NetworkCommunicationExerciseTwo\app\src\main\AndroidManifest.xml:22:25-66
+43
+44                <category android:name="android.intent.category.LAUNCHER" />
+44-->C:\Users\ali70\OneDrive\Desktop\NetworkCommunicationExerciseTwo\app\src\main\AndroidManifest.xml:24:17-77
+44-->C:\Users\ali70\OneDrive\Desktop\NetworkCommunicationExerciseTwo\app\src\main\AndroidManifest.xml:24:27-74
+45            </intent-filter>
+46
+47            <meta-data
+47-->C:\Users\ali70\OneDrive\Desktop\NetworkCommunicationExerciseTwo\app\src\main\AndroidManifest.xml:27:13-29:36
+48                android:name="android.app.lib_name"
+48-->C:\Users\ali70\OneDrive\Desktop\NetworkCommunicationExerciseTwo\app\src\main\AndroidManifest.xml:28:17-52
+49                android:value="" />
+49-->C:\Users\ali70\OneDrive\Desktop\NetworkCommunicationExerciseTwo\app\src\main\AndroidManifest.xml:29:17-33
+50        </activity>
+51
+52        <provider
+52-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ali70\.gradle\caches\transforms-3\412372332f980a5c4ef0364c55a99af0\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+53            android:name="androidx.startup.InitializationProvider"
+53-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ali70\.gradle\caches\transforms-3\412372332f980a5c4ef0364c55a99af0\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+54            android:authorities="com.example.networkcommunicationexercisetwo.androidx-startup"
+54-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ali70\.gradle\caches\transforms-3\412372332f980a5c4ef0364c55a99af0\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+55            android:exported="false" >
+55-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ali70\.gradle\caches\transforms-3\412372332f980a5c4ef0364c55a99af0\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+56            <meta-data
+56-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ali70\.gradle\caches\transforms-3\412372332f980a5c4ef0364c55a99af0\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+57                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+57-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ali70\.gradle\caches\transforms-3\412372332f980a5c4ef0364c55a99af0\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+58                android:value="androidx.startup" />
+58-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ali70\.gradle\caches\transforms-3\412372332f980a5c4ef0364c55a99af0\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+59            <meta-data
+59-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\ali70\.gradle\caches\transforms-3\a8199b6bb025d711471524267dd78014\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+60                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+60-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\ali70\.gradle\caches\transforms-3\a8199b6bb025d711471524267dd78014\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+61                android:value="androidx.startup" />
+61-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\ali70\.gradle\caches\transforms-3\a8199b6bb025d711471524267dd78014\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+62        </provider>
+63    </application>
+64
+65</manifest>

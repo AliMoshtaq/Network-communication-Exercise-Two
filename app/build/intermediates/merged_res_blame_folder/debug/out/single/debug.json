@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "C:\\Users\\ali70\\.gradle\\daemon\\7.4\\com.example.networkcommunicationexercisetwo.app-merged_res-33:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ali70\\.gradle\\daemon\\7.4\\com.example.networkcommunicationexercisetwo.app-debug-34:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ali70\\.gradle\\daemon\\7.4\\com.example.networkcommunicationexercisetwo.app-merged_res-33:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ali70\\.gradle\\daemon\\7.4\\com.example.networkcommunicationexercisetwo.app-pngs-28:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ali70\\.gradle\\daemon\\7.4\\com.example.networkcommunicationexercisetwo.app-merged_res-33:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ali70\\.gradle\\daemon\\7.4\\com.example.networkcommunicationexercisetwo.app-debug-34:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ali70\\.gradle\\daemon\\7.4\\com.example.networkcommunicationexercisetwo.app-merged_res-33:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ali70\\.gradle\\daemon\\7.4\\com.example.networkcommunicationexercisetwo.app-debug-34:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ali70\\.gradle\\daemon\\7.4\\com.example.networkcommunicationexercisetwo.app-merged_res-33:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ali70\\.gradle\\daemon\\7.4\\com.example.networkcommunicationexercisetwo.app-debug-34:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ali70\\.gradle\\daemon\\7.4\\com.example.networkcommunicationexercisetwo.app-merged_res-33:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ali70\\.gradle\\daemon\\7.4\\com.example.networkcommunicationexercisetwo.app-debug-34:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ali70\\.gradle\\daemon\\7.4\\com.example.networkcommunicationexercisetwo.app-merged_res-33:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\ali70\\.gradle\\daemon\\7.4\\com.example.networkcommunicationexercisetwo.app-main-35:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ali70\\.gradle\\daemon\\7.4\\com.example.networkcommunicationexercisetwo.app-merged_res-33:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ali70\\.gradle\\daemon\\7.4\\com.example.networkcommunicationexercisetwo.app-main-35:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ali70\\.gradle\\daemon\\7.4\\com.example.networkcommunicationexercisetwo.app-merged_res-33:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ali70\\.gradle\\daemon\\7.4\\com.example.networkcommunicationexercisetwo.app-debug-34:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ali70\\.gradle\\daemon\\7.4\\com.example.networkcommunicationexercisetwo.app-merged_res-33:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ali70\\.gradle\\daemon\\7.4\\com.example.networkcommunicationexercisetwo.app-debug-34:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ali70\\.gradle\\daemon\\7.4\\com.example.networkcommunicationexercisetwo.app-merged_res-33:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ali70\\.gradle\\daemon\\7.4\\com.example.networkcommunicationexercisetwo.app-debug-34:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ali70\\.gradle\\daemon\\7.4\\com.example.networkcommunicationexercisetwo.app-merged_res-33:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ali70\\.gradle\\daemon\\7.4\\com.example.networkcommunicationexercisetwo.app-debug-34:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ali70\\.gradle\\daemon\\7.4\\com.example.networkcommunicationexercisetwo.app-merged_res-33:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ali70\\.gradle\\daemon\\7.4\\com.example.networkcommunicationexercisetwo.app-debug-34:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ali70\\.gradle\\daemon\\7.4\\com.example.networkcommunicationexercisetwo.app-merged_res-33:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\ali70\\.gradle\\daemon\\7.4\\com.example.networkcommunicationexercisetwo.app-main-35:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ali70\\.gradle\\daemon\\7.4\\com.example.networkcommunicationexercisetwo.app-merged_res-33:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ali70\\.gradle\\daemon\\7.4\\com.example.networkcommunicationexercisetwo.app-debug-34:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ali70\\.gradle\\daemon\\7.4\\com.example.networkcommunicationexercisetwo.app-merged_res-33:\\drawable-mdpi_no_internet.png.flat",
+        "source": "C:\\Users\\ali70\\.gradle\\daemon\\7.4\\com.example.networkcommunicationexercisetwo.app-debug-34:\\drawable-mdpi\\no_internet.png"
+    },
+    {
+        "merged": "C:\\Users\\ali70\\.gradle\\daemon\\7.4\\com.example.networkcommunicationexercisetwo.app-merged_res-33:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ali70\\.gradle\\daemon\\7.4\\com.example.networkcommunicationexercisetwo.app-debug-34:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ali70\\.gradle\\daemon\\7.4\\com.example.networkcommunicationexercisetwo.app-merged_res-33:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ali70\\.gradle\\daemon\\7.4\\com.example.networkcommunicationexercisetwo.app-debug-34:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ali70\\.gradle\\daemon\\7.4\\com.example.networkcommunicationexercisetwo.app-merged_res-33:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ali70\\.gradle\\daemon\\7.4\\com.example.networkcommunicationexercisetwo.app-debug-34:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ali70\\.gradle\\daemon\\7.4\\com.example.networkcommunicationexercisetwo.app-merged_res-33:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ali70\\.gradle\\daemon\\7.4\\com.example.networkcommunicationexercisetwo.app-debug-34:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ali70\\.gradle\\daemon\\7.4\\com.example.networkcommunicationexercisetwo.app-merged_res-33:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ali70\\.gradle\\daemon\\7.4\\com.example.networkcommunicationexercisetwo.app-debug-34:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ali70\\.gradle\\daemon\\7.4\\com.example.networkcommunicationexercisetwo.app-merged_res-33:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ali70\\.gradle\\daemon\\7.4\\com.example.networkcommunicationexercisetwo.app-debug-34:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ali70\\.gradle\\daemon\\7.4\\com.example.networkcommunicationexercisetwo.app-merged_res-33:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ali70\\.gradle\\daemon\\7.4\\com.example.networkcommunicationexercisetwo.app-debug-34:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ali70\\.gradle\\daemon\\7.4\\com.example.networkcommunicationexercisetwo.app-merged_res-33:\\layout_country_list_row.xml.flat",
+        "source": "C:\\Users\\ali70\\.gradle\\daemon\\7.4\\com.example.networkcommunicationexercisetwo.app-main-35:\\layout\\country_list_row.xml"
+    }
+]
