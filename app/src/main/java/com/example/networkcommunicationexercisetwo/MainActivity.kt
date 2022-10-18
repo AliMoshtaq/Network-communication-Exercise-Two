@@ -39,14 +39,14 @@ class MainActivity : AppCompatActivity() {
             if (it != null) {
                 recyclerAdapter.setCountryList(it)
                 recyclerAdapter.notifyDataSetChanged()
-                Log.d("MainActivity","List received, ${it?.size}")
+                Log.d("MainActivity","List received, ${it.size}")
             } else {
                 Snackbar.make(
                     findViewById(R.id.main_view),
                     "No Network Connection, Please Retry",
                     Snackbar.LENGTH_INDEFINITE
                 ).setAction("Retry"){viewModel.makeAPICall()}.show()
-                Log.d("MainActivity","List received, ${it}")
+                Log.d("MainActivity","List received, $it")
             }
         }
         viewModel.makeAPICall()
